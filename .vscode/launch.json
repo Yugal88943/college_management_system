@@ -1,0 +1,12 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+      {
+        "type": "java",
+        "name": "Tomcat Project (with .env)",
+        "request": "launch",
+        "envFile": "${workspaceFolder}/.env"
+      }
+    ]
+  }
+  
