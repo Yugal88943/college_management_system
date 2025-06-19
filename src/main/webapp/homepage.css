@@ -1,0 +1,1612 @@
+*
+{
+margin:0px;
+padding:0px;
+font-family:open sans;
+
+}
+#slider{
+	width:100%;
+	min-height:600px;
+	float:left;
+	
+}
+
+.updates{
+	width:100%;
+	height:500px;
+	float:left;
+	font-size:20px;
+}
+
+.sfooter
+{
+	width:100%;
+	margin-top:300px;
+	float:left;
+	
+}
+
+.chgfooter
+{
+	width:100%;
+	margin-top:200px;
+	float:left;
+	
+}
+
+.footer1
+{
+	width:100%;
+	margin-top:380px;
+	float:left;
+	
+}
+
+.footer11
+{
+	width:100%;
+	margin-top:150px;
+	float:left;
+	
+}
+
+
+.hfooter
+{
+	width:100%;
+	margin-top:40px;
+	float:left;
+	
+}
+
+.lfooter
+{
+	width:100%;
+	margin-top:100px;
+	float:left;
+	
+}
+
+.container
+{
+width:100%;
+}
+
+.wrapper
+{
+	width:1200px;
+	min-height:auto;
+	margin:0px auto;
+	background:linear-gradient(white,lightgray,white);
+}
+
+.lwrapper
+{
+	width:1200px;
+	min-height:auto;
+	margin:0px auto;
+	background:crimson;
+}
+.wrapper1
+{
+	width:1200px;
+	min-height:auto;
+	margin:0px auto;
+	background:white;
+}
+
+.header
+{
+width:1200px;
+min-height:90px;
+float:left;
+}
+
+.left
+{
+width:600px;
+min-height:90px;
+float:left;
+margin-top:10px;
+}
+
+.right
+{
+width:600px;
+min-height:90px;
+float:right;
+margin-top:10px;
+
+}
+
+.top
+{
+	min-height:45px;
+}
+.bottom
+{
+	min-height:45px;
+}
+.top h3 {
+    color: red;
+    float: right;
+    padding-right: 10px;
+    padding-top: 18px;
+}
+
+.bottom h4 {
+    color: gray;
+    float: right;
+    padding-top: 15px;
+    padding-right: 10px;
+    
+}
+
+.menu
+{
+width:100%;
+height:40px;
+background:midnightblue;
+float:left;
+}
+
+.menu ul
+{
+	float:left;
+	margin:0px;
+	padding:0px;
+}
+
+.menu ul li
+{
+float:left;
+list-style:none;
+text-align:center;
+width:150px;
+height:40px;
+
+
+}
+.menu ul li a
+{
+ color: white;
+    display: block;
+    font-size: 16px;
+    padding: 8px 20px;
+    text-decoration: none;
+}
+
+.menu ul li a:hover
+{
+background:linear-gradient(midnightblue,white,midnightblue);
+color:black;
+
+}
+
+
+.menu ul li a.active
+{
+background:linear-gradient(midnightblue,white,midnightblue);
+color:black;
+
+}
+.menu ul li ul
+{
+	padding:0px;
+	margin:0px;
+	float:left;
+	height:auto;
+	width:150px;
+	position:absolute;
+	z-index:99;
+	display:none;
+	
+}
+
+.menu ul li:hover ul
+{
+	
+	display:block;
+}
+
+.menu ul li ul li
+{
+
+	background:midnightblue;
+}
+
+.menu ul li ul li a
+{
+	
+	display:block;
+}
+
+
+.content
+{
+width:1200px;
+min-height:auto;
+float:left;
+
+}
+
+.content-wrapper
+{
+	width:1200px;
+	min-height:auto;
+	margin:0px auto;
+	background:black;
+}
+
+
+.footer
+{
+width:100%;
+min-height:100px;
+background:linear-gradient(black,gray,black);
+float:left;
+text-align:center;
+margin-top:0px;
+}
+.footer p a
+{
+color:#D02201;
+}
+.footer p
+{
+color:silver;
+font-size:14px;
+margin-top:40px;
+}
+
+
+/********************* About Us ********************/
+
+.disc {
+    float: left;
+    margin: 10px 0 0;
+    width: 100%;
+}
+
+.disc li {
+    display: block;
+    float: left;
+    font-size: 15px;
+    margin: 0 0 0 10px;
+    padding: 10px 0;
+    width: 100%;
+}
+
+.aboutus
+{
+width:1200px;
+min-height:auto;
+float:left;
+margin:0 auto;
+
+}
+
+.aboutus h1
+{
+float:left;
+color:black;
+margin-left:10px;
+
+}
+
+
+.aboutus-content 
+{
+	float: left;
+    margin: 30px 0;
+    padding: 0 20px;
+    width: 1160px;
+	background:linear-gradient(white,lightgray,white);
+}
+
+.aboutus-content p
+{
+
+margin-left:10px;
+text-align-justify;
+color:black;
+}
+
+.aboutus-content1
+{
+
+width:1200px;
+min-height:auto;
+float:left;
+background:lightgray;
+}
+
+
+
+#aboutusimg
+{
+width:1200px;
+min-height:250;
+float:left;
+
+}
+
+#aboutusimg - wrapper
+{
+	width:1200px;
+	min-height:250;
+	margin:0px auto;
+	background:black;
+}
+
+
+.listing > li {
+    float: left;
+    font-size: 16px;
+    padding: 5px 0;
+}
+
+span {
+    float: left;
+    font-size: 20px;
+    font-weight: bold;
+    padding: 10px 0;
+    width: 100%;
+}
+
+
+/******************** End About Us **************************/
+
+
+/******************* Start Login**********************/
+
+
+#login
+{
+	width:1200px;
+	min-height:40px;
+	float:left;
+	font-weight:bold;
+	margin-top:30px;
+}
+
+
+#login-content
+{
+width:1200px;
+min-height:300px;
+float:left;
+background:linear-gradient(gray,white,gray,white,gray);
+
+
+}
+
+#loginimg
+{
+width:1200px;
+min-height:300px;
+float:left;
+
+}
+
+#loginimg - wrapper
+{
+	width:1200px;
+	min-height:300px;
+	margin:0px auto;
+	background:lightgray;
+}
+
+
+
+.leftsecl
+{
+	width:300px;
+	float:left;
+	margin-top:10px;	
+	margin-left:200px;
+	min-height:250px;
+}
+
+
+.leftsecl img
+{
+	width:280px;
+	float:left;
+	margin:10px 10px;
+	
+}
+.right_secl {
+    /*background: #dfdfdf none repeat scroll 0 0;*/
+  
+    border-radius: 5px;
+    float: right;
+    
+    margin-right: 200px;
+    margin-top: 10px;
+    min-height: 250px;
+    padding: 15px;
+    width: 310px;
+    border:1px solid gray;
+}
+.right_secl h3{
+	font-size:20px;
+	text-align:center;
+	margin-bottom:20px 0px;
+	/*border-bottom:solid 1px;*/
+	padding-bottom:10px 0;
+	}
+	
+.login_field{
+	float:left;
+	width:92%;
+	margin:4%;
+	
+	}
+	
+.right_secl label {
+    float: left;
+    font-size: 14px;
+    margin-left: 0;
+}
+
+.right_secl input {
+    border: 1px solid;
+    border-radius: 4px;
+    float: left;
+    font-size: 14px;
+    margin-top: 10px;
+    padding: 4px;
+    width: 92%;
+}
+
+
+select {
+    border: 1px solid;
+    border-radius: 4px;
+    margin-top: 12px;
+    padding: 4px;
+    width: 98%;
+}
+
+.submit {
+    background: midnightblue;
+    border: 1px solid;
+    color: #fff;
+    float: right !important;
+    padding: 7px !important;
+    margin-top: 15px;
+    text-decoration:none;
+    
+}
+.submit:hover{
+	background:crimson;
+	text-decoration:underline;
+	font-style:italic;
+	color:black;
+}
+
+.login_btn {
+    background: midnightblue;
+    color: white;
+    float: left;
+    font-size: 16px;
+    font-weight: bold;
+    margin: 10px;
+    padding: 4%;
+    text-align: center;
+    text-decoration: none;
+    width: 84%;
+}
+
+.forgot {
+    color: black;
+    float: right;
+    font-size: 14px;
+    margin: 10px;
+    padding: 5px;
+    text-decoration: none;
+}
+
+.forgot :hover{
+	text-decoration:underline;
+	color: crimson;
+	font-style:italic;
+	}	
+ 
+
+/******************** End Login ************************/
+
+
+
+/******************* Start Admin Home *******************/
+
+#admin
+{
+	width:1200px;
+	min-height:auto;
+	float:left;
+	margin:0px auto;
+}
+
+#admin-content
+{
+	width:1200px;
+	min-height:40px;
+	float:left;
+	margin-top:30px;
+	
+	background:white;
+}
+
+
+#admin-content h2
+{
+	font-weight:bold;
+	text-align:center;
+	font-size:20px;
+	
+}
+.admin-container
+{
+	float:left;
+	width:100%;
+	margin:0px 0px;
+	background:linear-gradient(white,lightgray,white);
+}
+
+.left_sec1
+{
+	width:300px;
+	float:left;
+	margin-top:30px;
+	margin-bottom:30px;
+	margin-left:50px;
+	background:linear-gradient(midnightblue,white);
+	min-height:300px;
+	border:2px solid black;
+}
+
+
+.left_sec1 img
+{
+	width:260px;
+	float:left;
+	margin:18px 18px 0px 18px;
+	background:white;
+}
+
+
+.left_sec1 a
+{
+	width:300px;
+	float:left;
+	text-align:center;
+	color:black;
+	margin-bottom:20px;
+	text-decoration:none;
+	font-weight:bold;
+}
+
+.left_sec1 a:hover
+{
+	text-decoration:underline;
+	color:crimson;
+}
+
+.left_sec2
+{
+	width:300px;
+	float:left;
+	margin:30px 92px;
+	background:linear-gradient(midnightblue,white);
+	min-height:300px;
+	border:2px solid black;	
+}
+
+
+
+.left_sec2 img
+{
+	width:260px;
+	float:left;
+	margin:18px 18px 0px 18px;
+	background:white;
+}
+
+
+.left_sec2 a
+{
+	width:300px;
+	float:left;
+	text-align:center;
+	color:black;
+	margin-bottom:20px;
+	text-decoration:none;
+	font-weight:bold;
+}
+
+.left_sec2 a:hover
+{
+	text-decoration:underline;
+	color:crimson;
+}
+
+.right_sec
+{
+	width:300px;
+	float:right;
+	background:linear-gradient(midnightblue,white);
+	min-height:300px;
+	margin-top:30px;	
+	margin-bottom:30px;
+	margin-right:50px;
+	border:2px solid black;
+}
+
+
+.right_sec img
+{
+	width:260px;
+	float:right;
+	margin:18px 18px 0px 18px;
+	background:white;
+}
+
+
+.right_sec a
+{
+	width:300px;
+	float:right;
+	text-align:center;
+	color:black;
+	margin-bottom:20px;
+	text-decoration:none;
+	font-weight:bold;
+}
+
+.right_sec a:hover
+{
+	text-decoration:underline;
+	color:crimson;
+}
+
+
+.left_sec11 {
+    background:linear-gradient(white,lightgray,white);
+    float: left;
+    margin-bottom: 30px;
+    margin-left: 50px;
+    margin-top: 60px;
+    min-height: 293px;
+    width: 290px;
+    
+}
+
+.left_sec11 img {
+    background: blue none repeat scroll 0 0;
+    float: left;
+    margin: 15px;
+    width: 260px;
+}
+
+
+.left_sec111
+{
+	width:750px;
+	float:left;
+	margin-top:45px;
+	margin-bottom:30px;
+	margin-left:80px;
+	background:white;
+	min-height:300px;
+	border:2px solid black;
+}
+
+
+.left_sec111 img
+{
+	width:260px;
+	float:left;
+	margin:20px;
+	background:white;
+}
+
+
+.left_sec22 {
+    background: linear-gradient(white,lightgray,white);
+    float: left;
+    margin: 10px 85px;
+    min-height: 300px;
+    width: 380px;
+}
+
+
+.right_sec1
+{
+	width:250px;
+	float:right;
+	background:linear-gradient(white,lightgray,white);
+	min-height:300px;
+	margin-top:60px;	
+	margin-bottom:30px;
+	margin-right:50px;
+}
+
+
+/****************** End Admin Login **********************/
+
+
+
+/******************* Start Employee Login *******************/
+
+.employee
+{
+	width:1200px;
+	min-height:100px;
+	float:left;
+}
+
+
+.employee-content
+{
+	width:1200px;
+	float:left;
+	margin-top:30px;
+	font-weight:bold;
+	background:linear-gradient(white,lightgray,white);
+}
+
+.employee-content1
+{
+	width:100%;
+	min-height:80px;
+	float:left;
+	margin-top:20px;
+	background:linear-gradient(white,lightgray,white);
+}
+
+
+.left_sece1
+{
+	width:200px;
+	float:left;
+	margin-top:20px;
+	margin-bottom:20px;
+	margin-left:20px;
+	background:linear-gradient(midnightblue,white);
+	min-height:250px;
+	border:2px solid black;
+}
+
+
+.left_sece1 img
+{
+	width:160px;
+	float:left;
+	margin:18px 18px 0px 18px;
+	background:white;
+}
+
+
+.left_sece1 a
+{
+	width:200px;
+	float:left;
+	text-align:center;
+	color:black;
+	margin-bottom:20px;
+	text-decoration:none;
+	font-weight:bold;
+}
+
+.left_sece1 a:hover
+{
+	text-decoration:underline;
+	color:crimson;
+}
+
+.left_sece2
+{
+	width:200px;
+	float:left;
+	margin-top:20px;
+	margin-bottom:20px;
+	margin-left:35px;
+	background:linear-gradient(midnightblue,white);
+	min-height:250px;
+	border:2px solid black;
+}
+
+
+.left_sece2 img
+{
+	width:160px;
+	float:left;
+	margin:18px 18px 0px 18px;
+	background:white;
+}
+
+
+.left_sece2 a
+{
+	width:200px;
+	float:left;
+	text-align:center;
+	color:black;
+	margin-bottom:20px;
+	text-decoration:none;
+	font-weight:bold;
+}
+
+.left_sece2 a:hover
+{
+	text-decoration:underline;
+	color:crimson;
+}
+
+.left_sece3
+{
+	width:200px;
+	float:left;
+	margin-top:20px;
+	margin-bottom:20px;
+	margin-left:35px;
+	background:linear-gradient(midnightblue,white);
+	min-height:250px;
+	border:2px solid black;
+	
+}
+
+
+.left_sece3 img
+{
+	width:160px;
+	float:left;
+	margin:18px 18px 0px 18px;
+	background:white;
+}
+
+
+.left_sece3 a
+{
+	width:200px;
+	float:left;
+	text-align:center;
+	color:black;
+	margin-bottom:20px;
+	text-decoration:none;
+	font-weight:bold;
+}
+
+.left_sece3 a:hover
+{
+	text-decoration:underline;
+	color:crimson;
+}
+
+
+.left_sece4
+{
+	width:200px;
+	float:left;
+	margin-top:20px;
+	margin-bottom:20px;
+	margin-left:35px;
+	background:linear-gradient(midnightblue,white);
+	min-height:250px;
+	border:2px solid black;
+	
+}
+
+
+.left_sece4 img
+{
+	width:160px;
+	float:left;
+	margin:18px 18px 0px 18px;
+	background:white;
+}
+
+
+.left_sece4 a
+{
+	width:200px;
+	float:left;
+	text-align:center;
+	color:black;
+	margin-bottom:20px;
+	text-decoration:none;
+	font-weight:bold;
+}
+
+.left_sece4 a:hover
+{
+	text-decoration:underline;
+	color:crimson;
+}
+
+.right_sece
+{
+	width:200px;
+	float:right;
+	background:linear-gradient(midnightblue,white);
+	min-height:250px;
+	margin-top:20px;	
+	margin-bottom:20px;
+	margin-right:20px;
+	border:2px solid black;
+}
+
+
+.right_sece img
+{
+	width:160px;
+	float:right;
+	margin:18px 18px 0px 18px;
+	background:white;
+}
+
+
+.right_sece a
+{
+	width:200px;
+	float:right;
+	text-align:center;
+	color:black;
+	margin-bottom:20px;
+	text-decoration:none;
+	font-weight:bold;
+}
+
+.right_sece a:hover
+{
+	text-decoration:underline;
+	color:crimson;
+}
+
+.left_sece11
+{
+	width:200px;
+	float:left;
+	margin-top:20px;
+	margin-bottom:20px;
+	margin-left:100px;
+	background:linear-gradient(midnightblue,white);
+	min-height:250px;
+	border:2px solid black;
+	
+}
+
+
+.left_sece11 img
+{
+	width:160px;
+	float:left;
+	margin:18px 18px 0px 18px;
+	background:white;
+	
+}
+
+
+.left_sece11 a
+{
+	width:200px;
+	float:left;
+	text-align:center;
+	color:black;
+	margin-bottom:20px;
+	text-decoration:none;
+	font-weight:bold;
+}
+
+.left_sece11 a:hover
+{
+	text-decoration:underline;
+	color:crimson;
+}
+
+
+.left_sece22
+{
+	width:200px;
+	float:left;
+	margin-top:20px;
+	margin-bottom:20px;
+	margin-left:60px;
+	background:linear-gradient(midnightblue,white);
+	min-height:250px;
+	border:2px solid black;
+	
+}
+
+
+.left_sece22 img
+{
+	width:160px;
+	float:left;
+	margin:18px 18px 0px 18px;
+	background:white;
+	
+}
+
+
+.left_sece22 a
+{
+	width:200px;
+	float:left;
+	text-align:center;
+	color:black;
+	margin-bottom:20px;
+	text-decoration:none;
+	font-weight:bold;
+}
+
+.left_sece22 a:hover
+{
+	text-decoration:underline;
+	color:crimson;
+}
+
+.left_sece33
+{
+	width:200px;
+	float:left;
+	margin-top:20px;
+	margin-bottom:20px;
+	margin-left:60px;
+	margin-right:60px;
+	background:linear-gradient(midnightblue,white);
+	min-height:250px;
+	border:2px solid black;
+	
+}
+
+
+.left_sece33 img
+{
+	width:160px;
+	float:left;
+	margin:18px 18px 0px 18px;
+	background:white;
+
+}
+
+
+.left_sece33 a
+{
+	width:200px;
+	float:left;
+	text-align:center;
+	color:black;
+	margin-bottom:20px;
+	text-decoration:none;
+	font-weight:bold;
+}
+
+.left_sece33 a:hover
+{
+	text-decoration:underline;
+	color:crimson;
+}
+
+.right_sece2
+{
+	width:200px;
+	float:right;
+	background:linear-gradient(midnightblue,white);
+	min-height:250px;
+	margin-top:20px;	
+	margin-bottom:20px;
+	margin-right:100px;
+	border:2px solid black;
+}
+
+
+.right_sece2 img
+{
+	width:160px;
+	float:right;
+	margin:18px 18px 0px 18px;
+	background:white;
+		
+}
+
+
+.right_sece2 a
+{
+	width:200px;
+	float:right;
+	text-align:center;
+	color:black;
+	margin-bottom:20px;
+	text-decoration:none;
+	font-weight:bold;
+}
+
+.right_sece2 a:hover
+{
+	text-decoration:underline;
+	color:crimson;
+}
+
+/********View Student********/
+
+.vstudent-content
+{
+	width:100%;
+	min-height:200px;
+	float:left;
+	margin-top:20px;
+	background:linear-gradient(white,lightgray,white);
+}
+
+.left_secvs
+{
+	width:250px;
+	float:left;
+	margin-top:0px;
+	margin-bottom:20px;
+	margin-left:300px;
+	background:linear-gradient(midnightblue,white);
+	min-height:300px;
+	border:2px solid black;
+}
+
+
+.left_secvs img
+{
+	width:210px;
+	float:left;
+	margin:18px 18px 0px 18px;
+	background:white;
+	min-height:220px;
+}
+
+
+.left_secvs a
+{
+	width:250px;
+	float:left;
+	text-align:center;
+	color:black;
+	margin-bottom:20px;
+	text-decoration:none;
+	font-weight:bold;
+}
+
+.left_secvs a:hover
+{
+	text-decoration:underline;
+	color:crimson;
+}
+
+.right_secvs
+{
+	width:250px;
+	float:right;
+	margin-top:0px;
+	margin-bottom:20px;
+	margin-left:35px;
+	margin-right:300px;
+	background:linear-gradient(midnightblue,white);
+	min-height:300px;
+	border:2px solid black;
+}
+
+
+.right_secvs img
+{
+	width:210px;
+	float:left;
+	margin:18px 18px 0px 18px;
+	background:white;
+	min-height:220px;
+}
+
+
+.right_secvs a
+{
+	width:250px;
+	float:left;
+	text-align:center;
+	color:black;
+	margin-bottom:20px;
+	text-decoration:underline;
+	font-weight:bold;
+}
+
+.right_secvs a:hover
+{
+	text-decoration:underline;
+	color:crimson;
+}
+
+
+.table {
+    margin: 0 auto;
+}
+/****************** End Employee Login **********************/
+
+/******************* Start Student Login *******************/
+
+.menu1
+{
+width:100%;
+height:40px;
+background:midnightblue;
+float:left;
+}
+
+.menu1 ul
+{
+	float:left;
+	margin:0px;
+	padding:0px;
+}
+
+.menu1 ul li
+{
+float:left;
+list-style:none;
+text-align:center;
+width:170px;
+height:40px;
+
+
+}
+.menu1 ul li a
+{
+ color: white;
+    display: block;
+    font-size: 16px;
+    padding: 9px 15px;
+    text-decoration: none;
+}
+
+.menu1 ul li a:hover
+{
+background:Crimson;
+color:black;
+
+}
+
+#student
+{
+	width:1200px;
+	height:auto;
+	float:left;
+	margin:0px auto;
+}
+
+#student-content
+{
+	width:1200px;
+	height:500px;
+	float:left;
+	background:lightgray;
+}
+
+
+.student-content1
+{
+	width:100%;
+	min-height:300px;
+	float:left;
+	margin-top:20px;
+	
+}
+
+.label {
+    float: left;
+    font-size: 16px;
+    margin-left: 0;
+    margin-top:12px;
+    font-weight:400;
+    margin-right: 30px;
+}
+
+
+.input {
+    border: 1px solid;
+    border-radius: 4px;
+    float: left;
+    font-size: 14px;
+    margin-top: 10px;
+    padding: 4px;
+    width: 94%;
+}
+/****************** End Student Login **********************/
+
+
+/***************** Start Courses offered *******************/
+
+#course
+{
+	width:1200px;
+	min-height:auto;
+	float:left;
+	margin:0px auto;
+}
+
+#course-content
+{
+	width:1200px;
+	min-height:40px;
+	float:left;
+	font-weight:bold;
+	background:linear-gradient(white,lightgray,white);
+}
+
+.course-container
+{
+	float:left;
+	width:100%;
+	margin:0px 0px;
+	background:linear-gradient(white,lightgray,white);
+}
+
+.cleft_sec1
+{
+	width:250px;
+	float:left;
+	margin-top:30px;
+	margin-bottom:30px;
+	margin-left:25px;
+	background:linear-gradient(midnightblue,white);
+	min-height:300px;
+	border:2px solid black;
+}
+
+.cleft_sec1 img
+{
+	width:210px;
+	float:left;
+	margin:20px;
+	background:white;
+}
+
+.cleft_sec1 a
+{
+	width:250px;
+	float:left;
+	text-align:center;
+	color:black;
+	margin-bottom:20px;
+	text-decoration:none;
+	font-weight:bold;
+	
+}
+
+.cleft_sec1 a:hover
+{
+	text-decoration:underline;
+	color:crimson;
+}
+
+
+.cleft_sec2
+{
+	width:250px;
+	float:left;
+	margin-top:30px;	
+	margin-bottom:30px;
+	margin-left:50px; 
+	background:linear-gradient(midnightblue,white);
+	min-height:300px;
+	border:2px solid black;
+	
+}
+
+.cleft_sec2 img
+{
+	width:210px;
+	float:left;
+	margin:20px;
+	background:white;
+}
+
+.cleft_sec2 a
+{
+	width:250px;
+	float:left;
+	text-align:center;
+	color:black;
+	margin-bottom:20px;
+	text-decoration:none;
+	font-weight:bold;
+}
+
+.cleft_sec2 a:hover
+{
+	text-decoration:underline;
+	color:crimson;	
+}
+
+
+.cleft_sec3
+{
+	width:250px;
+	float:left;
+	margin-top:30px;	
+	margin-bottom:30px;
+	margin-left:50px; 
+	background:linear-gradient(midnightblue,white);
+	min-height:300px;
+	border:2px solid black;
+	
+}
+
+
+.cleft_sec3 img
+{
+	width:210px;
+	float:left;
+	margin:20px;
+	background:white;
+}
+
+
+.cleft_sec3 a
+{
+	width:250px;
+	float:left;
+	text-align:center;
+	color:black;
+	margin-bottom:20px;
+	text-decoration:none;
+	font-weight:bold;
+}
+
+.cleft_sec3 a:hover
+{
+	text-decoration:underline;
+	color:crimson;	
+}
+
+
+.cright_sec
+{
+	width:250px;
+	float:right;
+	background:linear-gradient(midnightblue,white);
+	min-height:300px;
+	margin-top:30px;	
+	margin-bottom:30px;
+	margin-right:25px;
+	border:2px solid black;
+}
+
+
+.cright_sec img
+{
+	width:210px;
+	float:right;
+	margin:20px;
+	background:white;
+}
+
+
+.cright_sec a
+{
+	width:250px;
+	float:right;
+	text-align:center;
+	color:black;
+	margin-bottom:20px;
+	text-decoration:none;
+	font-weight:bold;
+}
+
+.cright_sec a:hover
+{
+	text-decoration:underline;
+	color:crimson;	
+}
+
+/***************** End Courses offered *******************/
+
+
+/****************** Bca, Mca , Bba, Mba, BPharmacy, MPharmacy Content Start *******************/
+
+.courses-content
+{
+	float: left;
+    margin: 30px 0;
+    padding: 0 20px;
+    width: 1160px;
+	background:linear-gradient(white,lightgray,white);
+}
+
+
+.courses-content span {
+    float: left;
+    font-size: 20px;
+    font-weight: 600;
+    padding: 10px 0;
+    width: 100%;
+}
+
+
+/***************** Bca, Mca , Bba, Mba, BPharmacy, MPharmacy Content End ********************/
+
+
+
+/******************** Enquiry Form ************************/
+
+
+
+.enqleftsec {
+    float: left;
+    margin-bottom: 30px;
+    margin-left: 150px;
+    margin-top: 50px;
+    min-height: 300px;
+    width: 300px;
+}
+
+
+.enqleftsec img
+{
+	width:280px;
+	float:left;
+	margin:10px 10px;
+	
+}
+
+.enquiry {
+    background: #dfdfdf none repeat scroll 0 0;
+    border-radius: 5px;
+    float: right;
+    margin: 50px 100px 30px;
+    min-height: 250px;
+    padding: 15px;
+    width: 400px;
+    border:1px solid black;
+}
+
+.enquiry h3{
+	font-size:20px;
+	text-align:center;
+	margin-bottom:20px 0px;
+	/*border-bottom:solid 1px;*/
+	padding-bottom:10px 0;
+	}
+
+.Enqlogin_field {
+    float: left;
+    margin: 15px 15px;
+    width: 92%;
+}
+	
+.enquiry label {
+    float: left;
+    font-size: 14px;
+    margin-left: 0;
+}
+
+.enquiry input {
+    border: 1px solid;
+    border-radius: 4px;
+    float: left;
+    font-size: 14px;
+    margin-top: 10px;
+    padding: 4px;
+    width: 97%;
+}
+
+
+.Enqlogin_btn {
+    background: midnightblue none repeat scroll 0 0;
+    color: white;
+    float: right;
+    font-size: 16px;
+    font-weight: bold;
+    margin: 10px 35px;
+    padding: 2%;
+    text-align: center;
+    text-decoration: none;
+    width: 15%;
+}
+
